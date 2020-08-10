@@ -9,7 +9,7 @@ This is an Instagram bot created Using Selenium webdriver and python.
  3. Update Your Firefox to Latest Version
 
 # What you can do with this?
- - Getting all comments from any post on Instagram fetched into an CSV file
+ - Get all comments from any post on Instagram fetched into an CSV file
  - Like all the comments on a post in a second, without manually liking an individual comment
  - This bot can like a post or comment or even do both for you in a single go.
  
