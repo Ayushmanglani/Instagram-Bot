@@ -7,7 +7,7 @@ This is an Instagram bot created Using Selenium webdriver and python.
  1. Install Selenium Web driver in Your System
  2. Install geckodriver
  3. Update Your Firefox to Latest Version
- 4. Save and run instabot.py
+ 4. Save and run [instabot.py](https://github.com/Ayushmanglani/Instagram-Bot/blob/master/instabot.py)
 
 # What you can do with this?
  - Get all comments from any post on Instagram fetched into an CSV file
