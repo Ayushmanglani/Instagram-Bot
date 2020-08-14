@@ -5,7 +5,7 @@ This is an Instagram bot created Using Selenium webdriver and python.
 
 # Prerequisite to run this code:
  1. Install Selenium Web driver in Your System
- 2. Install geckodriver
+ 2. Install [geckodriver](https://github.com/mozilla/geckodriver/releases)
  3. Update Your Firefox to Latest Version
  4. Save and run [instabot.py](https://github.com/Ayushmanglani/Instagram-Bot/blob/master/instabot.py)
 
