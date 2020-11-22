@@ -1,5 +1,5 @@
 # Instagram-Bot
-Bot to do Multiple Task in a go on Instagram
+A Bot to do Multiple Task in a go on Instagram
 
 This is an Instagram bot created Using Selenium webdriver and python.
 
