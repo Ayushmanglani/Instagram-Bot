@@ -36,4 +36,4 @@ This is an Instagram bot created Using Selenium webdriver and python.
  
  Feel free to contribute, to increase more features!
  
- 
+ You can use this project as you want!
